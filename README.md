@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Esen</title>
+    <title>The Great Color Game</title>
   </head>
   <body>
-    <h1>Esen</h1>
+    <h1>RGBA Color Game.</h1>
       
       
